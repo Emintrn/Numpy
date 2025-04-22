@@ -1,3 +1,3 @@
 import numpy
-example=nu mpy.zeros((3,4))
+example=numpy.zeros((3,4))
 print(example)
